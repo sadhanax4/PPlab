@@ -1,2 +1,2 @@
-value = 1000000
+value=1000000
 print(f"{value:,}")
