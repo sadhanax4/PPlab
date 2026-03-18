@@ -1,0 +1,10 @@
+i=0;
+while(i<=4):
+    if(i<1):
+        print("*")
+        if(i<2):
+            print("**");
+            if(i<3):
+            print("***");
+            if(i<4):
+            print("****");
